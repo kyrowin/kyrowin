@@ -28,17 +28,17 @@ Most of my projects stay private — the kind you ship, not open-source. Got an 
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyrowin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyrowin&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyrowin&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=kyrowin&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrowin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyrowin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 </div>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kyrowin&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyrowin&theme=tokyonight)
 
 </div>
 
@@ -46,7 +46,7 @@ Most of my projects stay private — the kind you ship, not open-source. Got an 
 
 <div align="center">
 
-<figure><embed src="https://wakatime.com/share/@9e566c6a-47eb-4985-a8b7-4b9f11c9a791/2cc8982c-aebf-4a0c-a56e-b7d9f47113ec.svg"></embed></figure>
+![WakaTime](https://wakatime.com/share/@9e566c6a-47eb-4985-a8b7-4b9f11c9a791/2cc8982c-aebf-4a0c-a56e-b7d9f47113ec.svg)
 
 </div>
 
@@ -54,7 +54,7 @@ Most of my projects stay private — the kind you ship, not open-source. Got an 
 
 <div align="center">
 
-![Snake animation](https://github.com/kyrowin/kyrowin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kyrowin/kyrowin/main/output/github-contribution-grid-snake.svg)
 
 </div>
 
