@@ -17,9 +17,9 @@
 
 ### About
 
-Python developer focused on **Telegram bots**, **backend services**, and **automation**. I work across parsing, scripting, and infrastructure — Docker, Linux, Git.
+Telegram bots, APIs, parsers, deploy scripts — if it runs on a server and does the job, that's what I build.
 
-Most of my projects are private. Available for technical collaboration.
+Most of the real work is in private repos. This profile is just the public side.
 
 ### Stack
 
