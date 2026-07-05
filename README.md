@@ -54,7 +54,7 @@ Most of my projects stay private — the kind you ship, not open-source. Got an 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/kyrowin/kyrowin/main/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kyrowin/kyrowin/main/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
