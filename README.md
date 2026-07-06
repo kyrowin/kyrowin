@@ -24,7 +24,11 @@ Most of the real work is in private repos. This profile is just the public side.
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,docker,git,linux&perline=6" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
 </p>
 
 ### Activity
